@@ -17,6 +17,7 @@
 [Agenda](#agenda)
 
 [Organizers](#organizers)
+[Daniele Pucci](##daniele-pucci)
 
 ----
 ## Objectives
@@ -56,4 +57,6 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 ## Agenda
 
 ## Organizers
+
+### Daniele Pucci
 
