@@ -11,8 +11,11 @@
 ----
 ## Meeting Minute
 [Objectives](#objectives)
+
 [Invited speakers](#invited-speakers)
+
 [Tools and People](#tools-and-people)
+
 [Action Points](#action-points)
 
 ----
