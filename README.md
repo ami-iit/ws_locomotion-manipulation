@@ -3,11 +3,6 @@
 
 :clock11: 8.30 AM  - Room to define
 
-# Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes
-
-
-
-
 ----
 ## Outline
 [Objectives](#objectives)
