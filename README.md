@@ -1,7 +1,7 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-:clock11: 8.30 AM  - Room to define if accepted
+Starting time: 8.30 AM  - Room to define, if accepted
 
 ----
 ## Outline
