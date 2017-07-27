@@ -14,9 +14,9 @@
 
 [Invited speakers](#invited-speakers)
 
-[Tools and People](#tools-and-people)
+[Agenda](#agenda)
 
-[Action Points](#action-points)
+[Organizers](#organizers)
 
 ----
 ## Objectives
@@ -38,16 +38,17 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion  | Awaiting response |
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion  |     Confirmed     |
 |        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation |     Confirmed     |
-T. Asfour, KIT (confirmed)
-Abder Kheddar, LIRMM CNRS (confirmed) 
-A. Albu Schaeffer, DLR 
-Vincenzo Lippiello, Università Federico II di Napoli (confirmed)
-Lorenzo Marconi,  University of Bologna
-George Nikolakopoulos, Luleå University of Technology
+|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation |     Confirmed     |
+|     Antonio Bicchi        |               IIT                  | Manipulation |     Confirmed     |
+|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial  |     Confirmed     |
+|       Lorenzo Marconi     |        Università di Bologna       |      Aerial  | Awaiting response |
+|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial  | Awaiting response | 
 Matko Orsag, University of Zagreb
 Antonio Franchi, LASS CNRS (confirmed)
 Koushil Sreenath, UC Berkeley (confirmed)
 
 
+## Agenda
 
+## Organizers
 
