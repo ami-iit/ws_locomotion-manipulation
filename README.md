@@ -16,8 +16,7 @@
 
 [Agenda](#agenda)
 
-[Organizers](#organizers)
-[Daniele Pucci](##daniele-pucci)
+[Organizers](#organizers): [Daniele Pucci](##daniele-pucci)
 
 ----
 ## Objectives
@@ -59,4 +58,10 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 ## Organizers
 
 ### Daniele Pucci
+Daniele received the bachelor and master degrees in Control Engineering with highest honours from "Sapienza",  University of Rome, in 2007 and 2009, respectively.  
+
+In 2013, Daniele received the PhD title in Information and Communication Technologies from University of Nice Sophia Antipolis, France, and in Control Engineering from “Sapienza” University of Rome, Italy. Since then,  he is a post-doctoral fellow at the Italian Institute of Technology. His research interests include control of nonlinear systems and its applications to aerial vehicles and robotics. 
+
+### Arash Ajoudani
+Arash Ajoudani received his PhD degree in Robotics and Automation from Centro "E Piaggio", University of Pisa, and Advanced Robotics Department (ADVR), Italian Institute of Technology (IIT), Italy (14 July 2014). His PhD thesis was a finalist for the Georges Giralt PhD award 2015 - best European PhD thesis award in robotics. He is currently a tenure-track scientist and the leader of the Human-Robot Interfaces and physical Interaction (HRI2) lab of the IIT. He was a finalist for the best manipulation paper award at ICRA 2012, a winner of the best student paper award at ROBIO 2013, a finalist for the best oral presentation award at Automatica (SIDRA) 2014, and a finalist for the best interactive paper award at Humanoids 2016. He is the author of the book "Transferring Human Impedance Regulation Skills to Robots" and several publications in journals, international conferences, and book chapters.  He is currently serving as the executive manager of the IEEE-RAS Young Reviewers' Program (YRP), chair and representative of the IEEE-RAS Young Professionals Committee, and co-chair of the IEEE-RAS Member Services Committee. He has been serving as a member of scientific advisory committee and as an associate editor for several international journals and conferences such as IEEE RAL, Biorob, ICORR, etc. His main research interests are in physical human-robot interaction and cooperation, robotic manipulation, robust and adaptive control, rehabilitation robotics, and tele-robotics.
 
