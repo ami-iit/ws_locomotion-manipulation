@@ -52,6 +52,21 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
 -->
 ## Agenda
+|   Time   |           Speaker         |               Talk title           |  
+| :-------:| :-----------------------: | :--------------------------------: | 
+|          |         Daniele Pucci     |             IIT                    |
+|          |         Russ Tedrake      |             MIT                    |
+|          |       Olivier Stasse      |      LAAS CNRS                     | 
+|          |       Jaeheung Park       |      Seoul National University     |  
+|          |        Tamim Asfour       |  Karlsruhe Institute of Technology |
+|          |     Abderrahmane Kheddar  |            LIRMM CNRS              |
+|          |     Antonio Bicchi        |               IIT                  |
+|          |     Arash Ajoudani        |               IIT                  | 
+|          |     Vincenzo Lippiello    | Università Federico II di Napoli   | 
+|          |       Antonio Franchi     |             LASS CNRS              | 
+|          |      Koushil Sreenath     |             UC Berkeley            | 
+|          |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |    
+
 
 ## Organizers
 
