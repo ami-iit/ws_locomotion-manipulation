@@ -53,6 +53,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
 -->
 ## Agenda
+
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
 | 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
