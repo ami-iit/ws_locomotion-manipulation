@@ -53,22 +53,22 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 ## Organizers
 
 ### Daniele Pucci
-<img src="images/Daniele-Pucci.png" width="120">
+<img src="images/Daniele-Pucci.png" width="180">
 
 Daniele received the bachelor and master degrees in Control Engineering with highest honors from "Sapienza",  University of Rome, in 2007 and 2009, respectively. In 2013 he received the PhD title in Information and Communication Technologies from University of Nice Sophia Antipolis, France, and in Control Engineering from “Sapienza” University of Rome, Italy. Since then, Daniele has been a post-doctoral fellow at the Italian Institute of Technology at the Dynamic Interaction Control laboratory. Within the CoDyCo project (FP7-ICT-2011.2.1, number: 600716), he has been the principal scientific contributor and he has developed innovative control techniques for whole-body motion control with tactile and force/torque sensing. Daniele's research interests include control of nonlinear systems and its applications to aerial vehicles and robotics.
 
 ### Arash Ajoudani
-![ArashAjoudani](images/Arash-Ajoudani.jpg) {:height="10%" width="10%"}
+<img src="images/Arash-Ajoudani.jpg" width="180">
 
 Arash Ajoudani received his PhD degree in Robotics and Automation from Centro "E Piaggio", University of Pisa, and Advanced Robotics Department (ADVR), Italian Institute of Technology (IIT), Italy (14 July 2014). His PhD thesis was a finalist for the Georges Giralt PhD award 2015 - best European PhD thesis award in robotics. He is currently a tenure-track scientist and the leader of the Human-Robot Interfaces and physical Interaction (HRI2) lab of the IIT. He was a finalist for the best manipulation paper award at ICRA 2012, a winner of the best student paper award at ROBIO 2013, a finalist for the best oral presentation award at Automatica (SIDRA) 2014, and a finalist for the best interactive paper award at Humanoids 2016. He is the author of the book "Transferring Human Impedance Regulation Skills to Robots" and several publications in journals, international conferences, and book chapters.  He is currently serving as the executive manager of the IEEE-RAS Young Reviewers' Program (YRP), chair and representative of the IEEE-RAS Young Professionals Committee, and co-chair of the IEEE-RAS Member Services Committee. He has been serving as a member of scientific advisory committee and as an associate editor for several international journals and conferences such as IEEE RAL, Biorob, ICORR, etc. His main research interests are in physical human-robot interaction and cooperation, robotic manipulation, robust and adaptive control, rehabilitation robotics, and tele-robotics.
 
 ### Matteo Fumagalli 
-![Matteo-Fumagalli](images/Matteo-Fumagalli.jpg) {:height="50%" width="50%"}
+<img src="images/Matteo-Fumagalli.jpg" width="180">
 
 Matteo Fumagalli is Assistant Professor in Mechatronics within the Department of Materials and Production at Aalborg University. He received my M.Sc. in 2006 from Politecnico di Milano, and the PhD degree from the University of Genoa, after a 4 years collaboration with the IIT – Istituto Italiano di Tecnologia. He was post-doc at the Robotics and Mechatronics group of the University of Twente, where he carried out research on mechatronic design of advanced robotic systems, including aerial manipulators and compliant mechanisms for robotics. His research interests are in the study and control of the interaction between mechanical systems, and design of robotic mechanisms (such as aerial manipulators) and sensors to control and accomplish safe physical interaction tasks. He have been involved in several EU projects, including CHRIS, AIROBOTS, SHERPA. Moreover, during the last period at the University of Twente, he was the PI for the H2020 project AEROWORKS.
 
 ### Patrick Wensing
-![Patrick-Wensing](images/Patrick-Wensing.jpeg) <!-- .element height="50%" width="50%" -->
+<img src="images/Patrick-Wensing.jpeg" width="180">
 
 Patrick Wensing is an Assistant Professor in the Department of
 Aerospace and Mechanical Engineering at the University of Notre
@@ -82,6 +82,6 @@ worldwide, with features from TIME, WIRED, and the Wall Street
 Journal.
 
 ### Jaeheung Park
-![Jaeheung-Park](images/Jaeheung-Park.jpg) <!-- .element height="50%" width="50%" -->
+<img src="images/Jaeheung-Park.jpg" width="180">
 
 Jaeheung Park received the B.S. and M.S. degrees in Aerospace Engineering from Seoul National University, Korea, in 1995 and 1999, respectively, and the Ph.D. degree in Aeronautics and Astronautics from Stanford University, U.S. in 2006. From 2006 to 2009, He was a Post-doctoral researcher and later a Research Associate at Stanford Artificial Intelligence Laboratory. From 2007 to 2008, he worked part-time at Hansen Medical Inc., a medical robotics company in U.S. Since 2009, he has been a professor (now associate professor) in the department of Intelligent Convergence Systems at Seoul National University, Korea. His research interests lie in the areas of robot-environment interaction, contact force control, robust haptic teleoperation, multicontact control, whole-body dynamic control, biomechanics, and medical robotics.
