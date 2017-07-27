@@ -68,7 +68,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |12:00 - 12:30 |     Antonio Bicchi        |                  -                 |  Manipolazione |
 |12:30 - 13:00 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
 |              |                           |                                    |                |
-|13:0 - 14:00  |     Lunch break           |           Lunch break              |  Lunch break   |
+|13:00 - 14:00  |     Lunch break           |           Lunch break              |  Lunch break   |
 |              |                           |                                    |                |
 |14:00 - 14:30 |      Jaeheung Park        |                 -                  |  Locomotion    |
 |14:30 - 15:00 |   Abderrahmane Kheddar    | Multi-(robot, modal, objectives) control using quadratic programming | Manipulation   |
