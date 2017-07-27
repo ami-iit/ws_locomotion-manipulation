@@ -47,7 +47,7 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 |       Lorenzo Marconi     |        Università di Bologna       |      Aerial   | Awaiting response |
 |   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial   | Awaiting response | 
 |      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
-|       Antonio Franchi     |             LASS CNRS              |      Aerial   | Awaiting response |  
+|       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed     |
 |      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
 
