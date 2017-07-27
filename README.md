@@ -45,7 +45,13 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
 
 
-
+<!---
+|          Paul Oh          |       University of Nevada         |      Aerial   | Awaiting response |  
+|       Lorenzo Marconi     |        Università di Bologna       |      Aerial   | Awaiting response |
+|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial   | Awaiting response | 
+|      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
+|      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
+-->
 ## Agenda
 
 ## Organizers
