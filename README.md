@@ -42,6 +42,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed     |
 |      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
+|     Lorenzo Marconi       |        Universita di Bologna       |      Aerial   |     Confirmed     |
 
 
 <!---
@@ -52,21 +53,27 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
 -->
 ## Agenda
-|   Time   |           Speaker         |               Talk title           |  
-| :-------:| :-----------------------: | :--------------------------------: | 
-|          |         Daniele Pucci     |             IIT                    |
-|          |         Russ Tedrake      |             MIT                    |
-|          |       Olivier Stasse      |      LAAS CNRS                     | 
-|          |       Jaeheung Park       |      Seoul National University     |  
-|          |        Tamim Asfour       |  Karlsruhe Institute of Technology |
-|          |     Abderrahmane Kheddar  |            LIRMM CNRS              |
-|          |     Antonio Bicchi        |               IIT                  |
-|          |     Arash Ajoudani        |               IIT                  | 
-|          |     Vincenzo Lippiello    | Università Federico II di Napoli   | 
-|          |       Antonio Franchi     |             LASS CNRS              | 
-|          |      Koushil Sreenath     |             UC Berkeley            | 
-|          |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |    
-
+|     Time     |           Speaker         |               Talk title            |       Topic      |
+| :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
+| 8:30 -  8:45 |          Organizers       |            Introduction             |  Perspectives    |
+| 8:45 -  9:00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   | :---------------:|
+| 9:00 -  9:30 |       Russ Tedrake        |      LAAS CNRS                      |   Locomotion        |
+| 9:30 - 10:00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
+|10:00 - 10:30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
+|:-----------: |          :-----------:    |                   :-----------:    |  :-----------: |
+|10:30 - 11:00 |     Coffee break          |           Coffee break             |  Coffee break  |
+|:-----------: |          :-----------:    |                   :-----------:    |  :-----------: |
+|11:00 - 11:30 |     Abderrahmane Kheddar  |            LIRMM CNRS              |           |
+|11:30 - 12:00 |     Antonio Bicchi        |               IIT                  |           |
+|12:00 - 12:30 |     Arash Ajoudani        |               IIT                  |           |
+|12:30 - 13:00 |     Vincenzo Lippiello    | Università Federico II di Napoli   |           |
+|13:00 - 14:00 |       Antonio Franchi     |             LASS CNRS              |           |
+|14:30 - 15:00 |      Koushil Sreenath     |             UC Berkeley            |           |
+|15:00 - 15:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
+|15:30 - 16:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
+|16:30 - 17:00 |      Koushil Sreenath     |             UC Berkeley            |           |
+|17:00 - 17:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
+|17:30 - 18:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
 
 ## Organizers
 
