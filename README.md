@@ -70,7 +70,7 @@ Arash Ajoudani received his PhD degree in Robotics and Automation from Centro "E
 Matteo Fumagalli is Assistant Professor in Mechatronics within the Department of Materials and Production at Aalborg University. He received my M.Sc. in 2006 from Politecnico di Milano, and the PhD degree from the University of Genoa, after a 4 years collaboration with the IIT – Istituto Italiano di Tecnologia. He was post-doc at the Robotics and Mechatronics group of the University of Twente, where he carried out research on mechatronic design of advanced robotic systems, including aerial manipulators and compliant mechanisms for robotics. His research interests are in the study and control of the interaction between mechanical systems, and design of robotic mechanisms (such as aerial manipulators) and sensors to control and accomplish safe physical interaction tasks. He have been involved in several EU projects, including CHRIS, AIROBOTS, SHERPA. Moreover, during the last period at the University of Twente, he was the PI for the H2020 project AEROWORKS.
 
 ### Patrick Wensing
-<img src="images/Patrick-Wensing.jpg" width="180">
+<img src="images/Patrick_Wensing.jpg" width="180">
 
 Patrick Wensing is an Assistant Professor in the Department of
 Aerospace and Mechanical Engineering at the University of Notre
