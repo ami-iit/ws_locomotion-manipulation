@@ -11,7 +11,7 @@ Starting time: 8.30 AM  - Room to define, if accepted
 
 [Agenda](#agenda)
 
-[Organizers](#organizers): [Daniele Pucci](###daniele pucci)
+[Organizers](#organizers): Daniele Pucci, Arash Ajoudani, Matteo Fumagalli, Patrick Wensing, Jaeheung Park
 
 ----
 ## Objectives
