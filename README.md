@@ -1,10 +1,12 @@
+![Humanoids2017](images/conference.png)
+
 # Workshop at IEEE Humanoids 2017
+:clock11: 8.30 AM  - Room to define
+
 # Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes
 
 
-:clock11: 8.30 AM  - Room to define
 
-![IIT](images/conference.png)
 
 ----
 ## Meeting Minute
