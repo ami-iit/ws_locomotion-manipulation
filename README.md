@@ -53,7 +53,7 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 ## Organizers
 
 ### Daniele Pucci
-![DanielePucci](images/Daniele-Pucci.png =100x20)
+![DanielePucci](images/Daniele-Pucci.png) <!-- .element height="50%" width="50%" -->
 
 Daniele received the bachelor and master degrees in Control Engineering with highest honors from "Sapienza",  University of Rome, in 2007 and 2009, respectively. In 2013 he received the PhD title in Information and Communication Technologies from University of Nice Sophia Antipolis, France, and in Control Engineering from “Sapienza” University of Rome, Italy. Since then, Daniele has been a post-doctoral fellow at the Italian Institute of Technology at the Dynamic Interaction Control laboratory. Within the CoDyCo project (FP7-ICT-2011.2.1, number: 600716), he has been the principal scientific contributor and he has developed innovative control techniques for whole-body motion control with tactile and force/torque sensing. Daniele's research interests include control of nonlinear systems and its applications to aerial vehicles and robotics.
 
@@ -63,12 +63,12 @@ Daniele received the bachelor and master degrees in Control Engineering with hig
 Arash Ajoudani received his PhD degree in Robotics and Automation from Centro "E Piaggio", University of Pisa, and Advanced Robotics Department (ADVR), Italian Institute of Technology (IIT), Italy (14 July 2014). His PhD thesis was a finalist for the Georges Giralt PhD award 2015 - best European PhD thesis award in robotics. He is currently a tenure-track scientist and the leader of the Human-Robot Interfaces and physical Interaction (HRI2) lab of the IIT. He was a finalist for the best manipulation paper award at ICRA 2012, a winner of the best student paper award at ROBIO 2013, a finalist for the best oral presentation award at Automatica (SIDRA) 2014, and a finalist for the best interactive paper award at Humanoids 2016. He is the author of the book "Transferring Human Impedance Regulation Skills to Robots" and several publications in journals, international conferences, and book chapters.  He is currently serving as the executive manager of the IEEE-RAS Young Reviewers' Program (YRP), chair and representative of the IEEE-RAS Young Professionals Committee, and co-chair of the IEEE-RAS Member Services Committee. He has been serving as a member of scientific advisory committee and as an associate editor for several international journals and conferences such as IEEE RAL, Biorob, ICORR, etc. His main research interests are in physical human-robot interaction and cooperation, robotic manipulation, robust and adaptive control, rehabilitation robotics, and tele-robotics.
 
 ### Matteo Fumagalli 
-![Matteo-Fumagalli](images/Matteo-Fumagalli.jpg =100x20)
+![Matteo-Fumagalli](images/Matteo-Fumagalli.jpg) <!-- .element height="50%" width="50%" -->
 
 Matteo Fumagalli is Assistant Professor in Mechatronics within the Department of Materials and Production at Aalborg University. He received my M.Sc. in 2006 from Politecnico di Milano, and the PhD degree from the University of Genoa, after a 4 years collaboration with the IIT – Istituto Italiano di Tecnologia. He was post-doc at the Robotics and Mechatronics group of the University of Twente, where he carried out research on mechatronic design of advanced robotic systems, including aerial manipulators and compliant mechanisms for robotics. His research interests are in the study and control of the interaction between mechanical systems, and design of robotic mechanisms (such as aerial manipulators) and sensors to control and accomplish safe physical interaction tasks. He have been involved in several EU projects, including CHRIS, AIROBOTS, SHERPA. Moreover, during the last period at the University of Twente, he was the PI for the H2020 project AEROWORKS.
 
 ### Patrick Wensing
-![Patrick-Wensing](images/Patrick-Wensing.jpeg =100x20)
+![Patrick-Wensing](images/Patrick-Wensing.jpeg) <!-- .element height="50%" width="50%" -->
 
 Patrick Wensing is an Assistant Professor in the Department of
 Aerospace and Mechanical Engineering at the University of Notre
