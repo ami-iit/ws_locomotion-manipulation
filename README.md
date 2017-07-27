@@ -56,13 +56,13 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
 | 8:30 -  8:45 |          Organizers       |            Introduction             |  Perspectives    |
-| 8:45 -  9:00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   | :---------------:|
+| 8:45 -  9:00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |                  |
 | 9:00 -  9:30 |       Russ Tedrake        |      LAAS CNRS                      |   Locomotion        |
 | 9:30 - 10:00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
 |10:00 - 10:30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
-|:-----------: |          :-----------:    |                   :-----------:    |  :-----------: |
+|              |                           |                                    |                |
 |10:30 - 11:00 |     Coffee break          |           Coffee break             |  Coffee break  |
-|:-----------: |          :-----------:    |                   :-----------:    |  :-----------: |
+|              |                           |                                    |                |
 |11:00 - 11:30 |     Abderrahmane Kheddar  |            LIRMM CNRS              |           |
 |11:30 - 12:00 |     Antonio Bicchi        |               IIT                  |           |
 |12:00 - 12:30 |     Arash Ajoudani        |               IIT                  |           |
