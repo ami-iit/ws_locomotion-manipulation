@@ -32,7 +32,6 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 | :-----------------------: | :--------------------------------: | :----------:  | :-----------:     |
 |         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
 |         Russ Tedrake      |             MIT                    |  Locomotion   |     Confirmed     |
-|  Inaba Masayuki student   |  University of Tokyo               |  Locomotion   |     Confirmed     |
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
 |       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
 |        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
