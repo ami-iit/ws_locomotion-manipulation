@@ -4,7 +4,7 @@
 
 :clock11: 8.30 AM  - Room to define
 
-![IIT](https://www.iit.it/templates/iit/images/iit-logo-v3-mainsite.png)
+![IIT](images/conference_header.png.png)
 
 ----
 ## Meeting Minute
