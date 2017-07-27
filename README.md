@@ -33,7 +33,6 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
 |         Russ Tedrake      |             MIT                    |  Locomotion   |     Confirmed     |
 |  Inaba Masayuki student   |  University of Tokyo               |  Locomotion   |     Confirmed     |
-|      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response |
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
 |       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
 |        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
@@ -41,13 +40,15 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |     Antonio Bicchi        |               IIT                  | Manipulation  |     Confirmed     |
 |     Arash Ajoudani        |               IIT                  | Manipulation  |     Confirmed     |
 |     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed     |
-|       Lorenzo Marconi     |        Università di Bologna       |      Aerial   | Awaiting response |
-|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial   | Awaiting response | 
-|      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
 |       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed     |
 |      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
-
+|          Paul Oh          |       University of Nevada         |      Aerial   | Awaiting response |  
+|       Lorenzo Marconi     |        Università di Bologna       |      Aerial   | Awaiting response |
+|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial   | Awaiting response | 
+|      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
+|      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
+ 
 
 
 ## Agenda
