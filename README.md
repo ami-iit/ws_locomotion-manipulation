@@ -73,10 +73,11 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |14:00 - 14:30 |      Jaeheung Park        |                 -                  |  Locomotion    |
 |14:30 - 15:00 |   Abderrahmane Kheddar    | Multi-(robot, modal, objectives) control using quadratic programming | Manipulation   |
 |15:00 - 15:30 |     Koushil Sreenath      |                -                   | Aerial          |
-|15:30 - 16:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
-|16:30 - 17:00 |      Koushil Sreenath     |             UC Berkeley            |           |
-|17:00 - 17:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
-|17:30 - 18:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
+|15:30 - 16:30 |    Coffee Break and poster session from contributions       |  Coffee Break and poster session from contributions   |  All  |
+|16:30 - 17:00 |      Antonio Franchi    |                         -         |     Aerial       |
+|17:00 - 17:15 |     Arash Ajoudani      |  -  |    Manipulation       |
+|17:15 - 17:30 |     Matteo Fumagalli      | -  |    Aerial       |
+|17:30 - 18:00 |    Panel discussion     | -  |           |
 
 ## Organizers
 
