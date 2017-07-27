@@ -57,27 +57,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
 | 8:30 -  8:45 |          Organizers       |            Introduction             |  Perspectives    |
 | 8:45 -  9:00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         -        |
-| 9:00 -  9:30 |       Russ Tedrake        |                   -                 |   Locomotion     |
-| 9:30 - 10:00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
-|10:00 - 10:30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
-|              |                           |                                     |                 |
-|10:30 - 11:00 |     Coffee break          |           Coffee break              |  Coffee break   |
-|              |                           |                                     |                 |
-|11:00 - 11:30 | Two contributing presentations |             -                  |         -       |
-|11:30 - 12:00 |     Olivier Stasse        |                  -                  |    Locomotion   |
-|12:00 - 12:30 |     Antonio Bicchi        |                  -                  |  Manipolazione  |
-|12:30 - 13:00 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
-|              |                           |                                     |                 |
-|13:00 - 14:00  |     Lunch break          |            Lunch break              |  Lunch break    |
-|              |                           |                                     |                 |
-|14:00 - 14:30 |      Jaeheung Park        |                 -                   |  Locomotion     |
-|14:30 - 15:00 |   Abderrahmane Kheddar    | Multi-(robot, modal, objectives) control using quadratic programming | Manipulation   |
-|15:00 - 15:30 |     Koushil Sreenath      |                -                   | Aerial          |
-|15:30 - 16:30 |    Coffee Break and poster session from contributions       |  Coffee Break and poster session from contributions   |  All  |
-|16:30 - 17:00 |      Antonio Franchi    |                         -         |     Aerial       |
-|17:00 - 17:15 |     Arash Ajoudani      |  -  |    Manipulation       |
-|17:15 - 17:30 |     Matteo Fumagalli    | -   |    Aerial       |
-|17:30 - 18:00 |    Panel discussion     | -   |       -   |
+
 
 ## Organizers
 
