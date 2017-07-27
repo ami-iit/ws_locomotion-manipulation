@@ -11,7 +11,7 @@ Starting time: 8.30 AM  - Room to define, if accepted
 
 [Agenda](#agenda)
 
-[Organizers](#organizers): [Daniele Pucci](##daniele-pucci)
+[Organizers](#organizers): [Daniele Pucci](###daniele-pucci)
 
 ----
 ## Objectives
@@ -72,3 +72,6 @@ for humanoid robots. At MIT, the results of his postdoctoral work on
 the MIT Cheetah robot have received considerable publicity
 worldwide, with features from TIME, WIRED, and the Wall Street
 Journal.
+
+### Jaeheung Park
+Jaeheung Park received the B.S. and M.S. degrees in Aerospace Engineering from Seoul National University, Korea, in 1995 and 1999, respectively, and the Ph.D. degree in Aeronautics and Astronautics from Stanford University, U.S. in 2006. From 2006 to 2009, He was a Post-doctoral researcher and later a Research Associate at Stanford Artificial Intelligence Laboratory. From 2007 to 2008, he worked part-time at Hansen Medical Inc., a medical robotics company in U.S. Since 2009, he has been a professor (now associate professor) in the department of Intelligent Convergence Systems at Seoul National University, Korea. His research interests lie in the areas of robot-environment interaction, contact force control, robust haptic teleoperation, multicontact control, whole-body dynamic control, biomechanics, and medical robotics.
