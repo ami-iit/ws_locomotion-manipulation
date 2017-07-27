@@ -1,4 +1,4 @@
-title: title: IEEE Humanoids 2017 workshop Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes
+title: IEEE Humanoids 2017 workshop Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes
 
 
 # Full-Day Workshop at 
