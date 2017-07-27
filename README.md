@@ -16,12 +16,14 @@ Starting time: 8.30 AM  - Room to define, if accepted
 ----
 ## Objectives
 
-The general purpose of providing humanoid robots with some degree of locomotion and manipulation has driven a large portion of the recent research in the robotics community. Legged and wheeled locomotion have proven to be feasible on various humanoid platforms to support an agile mobility. Nevertheless, the robot underactuation combined with the (usually) large number of the robot degrees-of-freedom are among the main difficulties for locomotion and manipulation control. With this in mind, this workshop aims at gathering scientists coming from different domains to discuss the development of platforms having the capacities of flight, contact locomotion, and manipulation. The envisaged applications belong to the domain of interests of both Whole-Body Loco-Manipulation and Aerial Manipulation.
-In particular, humanoid and flying robot control has developed along different directions.
-Humanoid robot control is often addressed assuming the robot attached to ground. The development of free-floating based frameworks has weakened this assumption, and the underlying system underactuation is dealt with by means of constraints arising from the contacts between the robot and the environment.
-The literature on flying vehicle control is much vaster and richer than that on humanoid robot control. Besides classical flight control applications, the robotics community has been attracted by small and versatile aircraft, sometimes referred to as Vertical Take Off and Landing (VTOL) vehicles. 
-We believe that there is a strong technological benefit in bringing humanoid and flying robots closer: a platform combining these two robot natures may have the capacities of flight, contact locomotion, and manipulation. Such platforms would enlarge the application domain of humanoid and aerial robots considerably. 
-This workshop aims at understanding the feasibility of bringing humanoid and flying robots closer by encouraging discussions between scientists coming from humanoid and aerial robotics.
+This workshop aims to bring humanoid and flying robots closer, both in their theory of control and in the physical platforms themselves, by encouraging discussion between scientists from humanoid and aerial robotics. 
+
+The goal of providing humanoids with capabilities of locomotion and manipulation has driven much recent research in the robotics community. Legged and wheeled locomotion have proven to be feasible on various platforms, supporting a growing envelope of agile ground mobility. Nevertheless, underactuation combined with a large number of degrees-of-freedom commonly challenge the control of locomotion and manipulation in these platforms. With the recent outgrowth of aerial manipulation, these traditionally disparate communities have faced similar challenges.
+
+Thus, this workshop aims to gather scientists towards unifying solutions for challenges in flight, contact locomotion, and manipulation. The envisaged applications belong to the domains of both Whole-Body Loco-Manipulation and Aerial Manipulation.
+Historically, control systems for humanoids and flying robots have developed along different paths. Whole-body control of humanoids has addressed high-DoF challenges, but largely has neglected underactuation. Control of aerial vehicles has a strong theoretical underpinning with roots in the control community, providing rigorous methods to address underactuation. Yet, the recent introduction of aerial manipulation has introduced increasingly challenging high-DoF control problems in this domain. 
+Thus, there is yet strong potential in bringing humanoid and flying robots closer: both in the theory upon which their control is grounded, and physically in the platforms themselves. A system combining aspects of both platforms may have the capacities of flight, contact locomotion, and manipulation. Such future systems would enlarge the application domain of humanoid and aerial robots, inheriting expanded versatility for future deployment in challenging environments. 
+
 
 
 ## Invited speakers
