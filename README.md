@@ -53,7 +53,7 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 ## Organizers
 
 ### Daniele Pucci
-![DanielePucci](images/Daniele-Pucci.png) <!-- .element height="50%" width="50%" -->
+![DanielePucci](images/Daniele-Pucci.png =24x48)
 
 Daniele received the bachelor and master degrees in Control Engineering with highest honors from "Sapienza",  University of Rome, in 2007 and 2009, respectively. In 2013 he received the PhD title in Information and Communication Technologies from University of Nice Sophia Antipolis, France, and in Control Engineering from “Sapienza” University of Rome, Italy. Since then, Daniele has been a post-doctoral fellow at the Italian Institute of Technology at the Dynamic Interaction Control laboratory. Within the CoDyCo project (FP7-ICT-2011.2.1, number: 600716), he has been the principal scientific contributor and he has developed innovative control techniques for whole-body motion control with tactile and force/torque sensing. Daniele's research interests include control of nonlinear systems and its applications to aerial vehicles and robotics.
 
