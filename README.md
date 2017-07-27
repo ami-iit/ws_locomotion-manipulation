@@ -9,7 +9,7 @@
 
 
 ----
-## Meeting Minute
+## Outline
 [Objectives](#objectives)
 
 [Invited speakers](#invited-speakers)
@@ -31,19 +31,23 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 
 ## Invited speakers
 
-| Name and Surname | Institution | Talk topic |
-| :---: | :------: | :------: |
-| Enrico Mingo H. | ADVR | software|  |
-| Francesco Di Dea | ADVR | hardware | |
-| Ferdinando Cannella | AIAL | hardware | |
-| Daniele | AIAL | software | |
-| Maria Lazzaroni  | ADVR | software | |
-| Silvio Traversaro | DIC | software | |
-| Daniele Pucci | DIC | software | |
-| Francesco Romano | DIC | software | |
-| Diego Ferigo | DIC | software | |
-| Alberto Parmiggiani | iCub | hardware | |
-| Luca Fiorio | iCub | hardware | |
+|      Name and Surname     |               Institution          |  Talk topic  |       Status      |
+| :-----------------------: | :--------------------------------: | :----------: | :-----------:     |
+|   Russ Tedrake            |             MIT                    |  Locomotion  |     Confirmed     |
+| Inaba Masayuki student    |  University of Tokyo               |  Locomotion  |     Confirmed     |
+|      Kenji Hashimoto      |     Waseda University              |  Locomotion  | Awaiting response |
+|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion  |     Confirmed     |
+|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation |     Confirmed     |
+T. Asfour, KIT (confirmed)
+Abder Kheddar, LIRMM CNRS (confirmed) 
+A. Albu Schaeffer, DLR 
+Vincenzo Lippiello, Università Federico II di Napoli (confirmed)
+Lorenzo Marconi,  University of Bologna
+George Nikolakopoulos, Luleå University of Technology
+Matko Orsag, University of Zagreb
+Antonio Franchi, LASS CNRS (confirmed)
+Koushil Sreenath, UC Berkeley (confirmed)
+
 
 
 
