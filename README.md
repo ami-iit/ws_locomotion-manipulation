@@ -56,7 +56,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
-| 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
+<!---| 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
 | 9.00 -  9.30 |       Russ Tedrake        |                   ---                 |   Locomotion     |
 | 9.30 - 10.00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
@@ -79,6 +79,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |17.00 - 17.15 |     Arash Ajoudani      |  ---  |    Manipulation       |
 |17.15 - 17.30 |     Matteo Fumagalli    | ---   |    Aerial       |
 |17.30 - 18.00 |    Panel discussion     | ---   |       ---   |
+-->
 
 
 
