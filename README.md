@@ -31,21 +31,26 @@ This workshop aims at understanding the feasibility of bringing humanoid and fly
 
 ## Invited speakers
 
-|      Name and Surname     |               Institution          |  Talk topic  |       Status      |
-| :-----------------------: | :--------------------------------: | :----------: | :-----------:     |
-|   Russ Tedrake            |             MIT                    |  Locomotion  |     Confirmed     |
-| Inaba Masayuki student    |  University of Tokyo               |  Locomotion  |     Confirmed     |
-|      Kenji Hashimoto      |     Waseda University              |  Locomotion  | Awaiting response |
-|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion  |     Confirmed     |
-|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation |     Confirmed     |
-|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation |     Confirmed     |
-|     Antonio Bicchi        |               IIT                  | Manipulation |     Confirmed     |
-|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial  |     Confirmed     |
-|       Lorenzo Marconi     |        Università di Bologna       |      Aerial  | Awaiting response |
-|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial  | Awaiting response | 
-Matko Orsag, University of Zagreb
-Antonio Franchi, LASS CNRS (confirmed)
-Koushil Sreenath, UC Berkeley (confirmed)
+|      Name and Surname     |               Institution          |  Talk topic   |       Status      |
+| :-----------------------: | :--------------------------------: | :----------:  | :-----------:     |
+|         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
+|         Russ Tedrake      |             MIT                    |  Locomotion   |     Confirmed     |
+|  Inaba Masayuki student   |  University of Tokyo               |  Locomotion   |     Confirmed     |
+|      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response |
+|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
+|       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
+|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
+|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed     |
+|     Antonio Bicchi        |               IIT                  | Manipulation  |     Confirmed     |
+|     Arash Ajoudani        |               IIT                  | Manipulation  |     Confirmed     |
+|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed     |
+|       Lorenzo Marconi     |        Università di Bologna       |      Aerial   | Awaiting response |
+|   George Nikolakopoulos   |  Luleå University of Technology    |      Aerial   | Awaiting response | 
+|      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
+|       Antonio Franchi     |             LASS CNRS              |      Aerial   | Awaiting response |  
+|      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
+|     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
+
 
 
 ## Agenda
