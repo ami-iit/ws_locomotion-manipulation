@@ -63,11 +63,13 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |              |                           |                                    |                |
 |10:30 - 11:00 |     Coffee break          |           Coffee break             |  Coffee break  |
 |              |                           |                                    |                |
-|11:00 - 11:30 |     Abderrahmane Kheddar  |            LIRMM CNRS              |           |
-|11:30 - 12:00 |     Antonio Bicchi        |               IIT                  |           |
-|12:00 - 12:30 |     Arash Ajoudani        |               IIT                  |           |
-|12:30 - 13:00 |     Vincenzo Lippiello    | Università Federico II di Napoli   |           |
-|13:00 - 14:00 |       Antonio Franchi     |             LASS CNRS              |           |
+|11:00 - 11:30 | Two contributing presentations |             -                 |         -      |
+|11:30 - 12:00 |     Olivier Stasse        |                  -                 |    Locomotion  |
+|12:00 - 12:30 |     Antonio Bicchi        |                  -                 |  Manipolazione |
+|12:30 - 13:00 |     Vincenzo Lippiello    |                  -                 |      Aerial    |
+|              |                           |                                    |                |
+|13:0 - 14:00  |     Lunch break           |           Lunch break              |  Lunch break   |
+|              |                           |                                    |                |
 |14:30 - 15:00 |      Koushil Sreenath     |             UC Berkeley            |           |
 |15:00 - 15:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
 |15:30 - 16:30 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |           |
