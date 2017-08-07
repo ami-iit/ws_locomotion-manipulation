@@ -94,7 +94,7 @@ We received the support from four IEEE techinical committes, stated in the follo
 
 * [IEEE-RAS TC on Whole-body control](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Whole-Body-Control.pdf)
 
-## Disclaimers
+### Disclaimers
 
 1. At submission time, we had not received the support letter from the IEEE RAS Techinical Committee on Aerial Robotics and UAS, and for this reason we did not list it in the workshop [proposal](../proposal.pdf). We received the letter on August the 3rd.
 
