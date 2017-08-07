@@ -11,6 +11,8 @@ Starting time: 8.30 AM  - Room to define, if accepted
 
 [Agenda](#agenda)
 
+[Support letters](#support-letters)
+
 [Organizers](#organizers): Daniele Pucci, Arash Ajoudani, Matteo Fumagalli, Patrick Wensing, Jaeheung Park
 
 ----
@@ -81,7 +83,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |17.30 - 18.00 |    Panel discussion     | ---   |       ---   |
 
 
-
+## Support letters
 
 ## Organizers
 
