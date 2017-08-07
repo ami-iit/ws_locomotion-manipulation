@@ -85,6 +85,10 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 
 ## Support letters
 
+We received the support from the following techinical committes, stated in the following letters
+* [IEEE-RAS TC on Aerial Robotics and UAV](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Aerial-Robotics-UAS.pdf)
+
+
 ## Organizers
 
 ### Daniele Pucci
