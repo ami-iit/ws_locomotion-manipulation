@@ -54,6 +54,9 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
 -->
+
+[Back to the outline](#outline)
+
 ## Agenda
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
@@ -82,6 +85,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |17.15 - 17.30 |     Matteo Fumagalli    | ---   |    Aerial       |
 |17.30 - 18.00 |    Panel discussion     | ---   |       ---   |
 
+[Back to the outline](#outline)
 
 ## Support letters
 
@@ -94,11 +98,15 @@ We received the support from four IEEE techinical committes, stated in the follo
 
 * [IEEE-RAS TC on Whole-body control](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Whole-Body-Control.pdf)
 
+[Back to the outline](#outline)
+
 ### Disclaimers
 
 1. At submission time, we had not received the support letter from the IEEE RAS Techinical Committee on Aerial Robotics and UAV, and for this reason we did not list it in the workshop [proposal](https://github.com/loc2/ws_locomotion-manipulation/blob/master/proposal.pdf). We received the letter on August the 3rd.
 
 2. Most of support letters cite the workshop with a different title, e.g. Towards Whole-Body Aerial Loco-Manipulation. This because we decided to change the workshop title at the very last moment.
+
+[Back to the outline](#outline)
 
 ## Organizers
 
