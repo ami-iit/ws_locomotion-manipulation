@@ -26,7 +26,7 @@ Thus, this workshop aims to gather scientists towards unifying solutions for cha
 Historically, control systems for humanoids and flying robots have developed along different paths. Whole-body control of humanoids has addressed high-DoF challenges, but largely has neglected underactuation. Control of aerial vehicles has a strong theoretical underpinning with roots in the control community, providing rigorous methods to address underactuation. Yet, the recent introduction of aerial manipulation has introduced increasingly challenging high-DoF control problems in this domain. 
 Thus, there is yet strong potential in bringing humanoid and flying robots closer: both in the theory upon which their control is grounded, and physically in the platforms themselves. A system combining aspects of both platforms may have the capacities of flight, contact locomotion, and manipulation. Such future systems would enlarge the application domain of humanoid and aerial robots, inheriting expanded versatility for future deployment in challenging environments. 
 
-
+[Back to Outline](#Outline)
 
 ## Invited speakers
 
