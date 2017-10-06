@@ -1,7 +1,7 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-Starting time: 8.30 AM  - Room to define, if accepted
+Starting time: 8.30 AM  - Room to define
 
 ----
 ## Outline
@@ -33,7 +33,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Name and Surname     |               Institution          |  Talk topic   |       Status      |
 | :-----------------------: | :--------------------------------: | :----------:  | :-----------:     |
 |         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
-|         Russ Tedrake      |             MIT                    |  Locomotion   |     Confirmed     |
+|       Robin Deits         |             MIT                    |  Locomotion   |     Confirmed     |
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
 |       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
 |        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
