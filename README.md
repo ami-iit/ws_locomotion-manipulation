@@ -63,7 +63,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
 | 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
-| 9.00 -  9.30 |       Russ Tedrake        |                   ---                 |   Locomotion     |
+| 9.00 -  9.30 |     Robin Deits           |                   ---               |   Locomotion     |
 | 9.30 - 10.00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
 |10.00 - 10.30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
 |              |                           |                                     |                 |
