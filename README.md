@@ -17,6 +17,14 @@ The goal is to investigate the technological and theoretical feasibility of robo
 
 You are welcome to to contribute and participate to this workshop!
 
+## Important dates:
+
+November   5, 2017: Submissions due
+
+November   8, 2017: Acceptance notification
+
+November 15, 2017: Workshop
+
 ----
 ## Outline
 [Objectives](#objectives)
