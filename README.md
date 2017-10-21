@@ -3,6 +3,20 @@
 
 Starting time: 8.30 AM  - Room to define
 
+## Call for contribitions 
+
+Dear Colleagues,
+
+We are glad to announce the workshop entitled "Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes”.
+
+It will be held on November 15th, 2017, at IEEE-RAS International Conference on Humanoids Robots (Humanoids 2017), Birmingham, UK. 
+
+This workshop will bring together researchers working on Manipulation and Locomotion, either Aerial or Terrestrial.
+
+The goal is to investigate the technological and theoretical feasibility of robotic platforms implementing a degree of Manipulation, Aerial, and Terrestrial locomotion capabilities. 
+
+You are welcome to to contribute and participate to this workshop!
+
 ----
 ## Outline
 [Objectives](#objectives)
