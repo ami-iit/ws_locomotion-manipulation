@@ -54,19 +54,19 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 
 |      Name and Surname     |               Institution          |  Talk topic   |       Status      |
 | :-----------------------: | :--------------------------------: | :----------:  | :-----------:     |
-|         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
-|       Robin Deits         |             MIT                    |  Locomotion   |     Confirmed     |
-|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
-|       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
-|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
-|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed     |
-|     Antonio Bicchi        |               IIT                  | Manipulation  |     Confirmed     |
-|     Arash Ajoudani        |               IIT                  | Manipulation  |     Confirmed     |
-|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed     |
-|       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed     |
-|      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
-|     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
-|     Lorenzo Marconi       |        Universita di Bologna       |      Aerial   |     Confirmed     |
+|       Daniele Pucci       |             IIT                    |  Introductory |     Confirmed, II |
+|       Robin Deits         |             MIT                    |  Locomotion   |     Confirmed, II |
+|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed, I  |
+|       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed, I  |
+|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed, I  |
+|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed, I  |
+|     Antonio Bicchi        |               IIT                  | Manipulation  |   **Cancelled**   |
+|     Arash Ajoudani        |               IIT                  | Manipulation  |   **Cancelled**   |
+|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed, I  |
+|       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed, I  |
+|      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed, II |
+|     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed, II |
+|     Lorenzo Marconi       |        Universita di Bologna       |      Aerial   |     Confirmed, I  |
 
 
 <!---
