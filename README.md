@@ -59,7 +59,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed, I  |
 |       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed, I  |
 |        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed, I  |
-|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed, I  |
+|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed, II |
 |     Antonio Bicchi        |               IIT                  | Manipulation  |   **Cancelled**   |
 |     Arash Ajoudani        |               IIT                  | Manipulation  |   **Cancelled**   |
 |     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed, I  |
