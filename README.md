@@ -20,8 +20,11 @@ You are welcome to to contribute and participate to this workshop!
 To participate, please submit an abstract (1-2 pages, double-column, PDF) via email to 
 
 Daniele Pucci: daniele.pucci@iit.it and
+
 Arash Ajoudani: arash.ajoudani@iit.it and
+
 Matteo Fumagalli: m_fumagalli@m-tech.aau.dk and
+
 Patrick Wensing: pwensing@nd.edu
 
 Please use the IEEE templates for conference below, and submit the final PDF.
