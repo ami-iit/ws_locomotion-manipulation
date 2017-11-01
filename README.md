@@ -28,7 +28,9 @@ Matteo Fumagalli: m_fumagalli@m-tech.aau.dk and
 Patrick Wensing: pwensing@nd.edu
 
 Please use the IEEE templates for conference below, and submit the final PDF.
+
 http://ras.papercept.net/conferences/support/tex.php 
+
 http://ras.papercept.net/conferences/support/word.php 
 
 
