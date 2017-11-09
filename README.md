@@ -120,9 +120,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
 |15.00 - 15.30 |    Coffee Break           |  Coffee Break                         |  All  |
-|15.30 - 15.45 | Shunichi Nozawa1, Masaki Murooka1, Shintaro Noda1, Kunio Kojima1,
-Yuta Kojio1, Yohei Kakiuchi1, Kei Okada1, Masayuki Inaba | Integration of Locomotion and Manipulation to Achieve Humanoid
-Manipulation of an Object of Unknown Mass Properties and Friction |        |       
+|15.30 - 15.45 | Shunichi Nozawa1, Masaki Murooka1, Shintaro Noda1, Kunio Kojima1, Yuta Kojio1, Yohei Kakiuchi1, Kei Okada1, Masayuki Inaba | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction |        |       
 |15.45 - 16.15 |      Antonio Franchi    |                         ---         |     Aerial       |
 |16.15 - 16.45 |   Abderrahmane Kheddar    | Multi- control using quadratic programming | Manipulation   |
 |16.45 - 17.15 |     Matteo Fumagalli    | ---   |    Aerial       |
