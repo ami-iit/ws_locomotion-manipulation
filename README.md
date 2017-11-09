@@ -80,7 +80,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |     Antonio Bicchi        |               IIT                  | Manipulation  |   **Cancelled**   |
 |     Arash Ajoudani        |               IIT                  | Manipulation  |   **Cancelled**   |
 |     Manolo Garabini       |      Università di Pisa            | Manipulation  |     Confirmed, II |
-|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed, I  |
+|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed, II |
 |       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed, II |
 |      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed, II |
 |     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed, II |
