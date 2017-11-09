@@ -112,7 +112,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |11.00 - 11.15 |   Markus Giftthaler et al. | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
 |11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method for Torque Controlled Biped Robot |  Selected2 |
 |11.30 - 12.00 |     Olivier Stasse        | Using a Memory of Motion to Efficiently Warm-Start a Nonlinear Predictive Controller                 |    Locomotion   |
-|12.00 - 12.30 |     Antonio Bicchi        |                  ---                  |  Manipulation  |
+|12.00 - 12.30 |     Manolo Garabini         |                  ---                  |  Manipulation  |
 |12.30 - 13.00 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
 |              |                           |                                     |                 |
 |13.00 - 14.00  |     Lunch break          |            Lunch break              |  Lunch break    |
