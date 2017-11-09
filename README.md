@@ -118,7 +118,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |              |                           |                ---                     |      ---           |
 |14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
-|15.00 - 15.30 |    Coffee Break and poster session from contributions       |  Coffee Break and poster session from contributions   |  All  |
+|15.00 - 15.30 |    Coffee Break           |  Coffee Break                         |  All  |
 |15.30 - 16.00 |      Antonio Franchi    |                         ---         |     Aerial       |
 |16.00 - 16.30 |   Abderrahmane Kheddar    | Multi- control using quadratic programming | Manipulation   |
 |16.30 - 17.00 |     Matteo Fumagalli    | ---   |    Aerial       |
