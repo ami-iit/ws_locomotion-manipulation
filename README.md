@@ -109,8 +109,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |              |                           |                                     |                 |
 |10.30 - 11.00 |     Coffee break          |           Coffee break              |  Coffee break   |
 |              |                           |                                     |                 |
-|11.00 - 11.15 |   Markus Giftthaler, Michael Neunert and Jonas Buchli                        | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control
-Across Different Domains and Platforms | Selected 1  |
+|11.00 - 11.15 |   Markus Giftthaler, Michael Neunert and Jonas Buchli                        | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
 |11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method
 for Torque Controlled Biped Robot |  Selected2 |
 |11.30 - 12.00 |     Olivier Stasse        | Using a Memory of Motion to Efficiently Warm-Start a Nonlinear Predictive Controller                 |    Locomotion   |
