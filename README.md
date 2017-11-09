@@ -109,7 +109,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |              |                           |                                     |                 |
 |10.30 - 11.00 |     Coffee break          |           Coffee break              |  Coffee break   |
 |              |                           |                                     |                 |
-|11.00 - 11.15 |   Markus Giftthaler, Michael Neunert and Jonas Buchli                        | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
+|11.00 - 11.15 |   Markus Giftthaler et al. | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
 |11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method for Torque Controlled Biped Robot |  Selected2 |
 |11.30 - 12.00 |     Olivier Stasse        | Using a Memory of Motion to Efficiently Warm-Start a Nonlinear Predictive Controller                 |    Locomotion   |
 |12.00 - 12.30 |     Antonio Bicchi        |                  ---                  |  Manipulation  |
@@ -120,7 +120,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
 |15.00 - 15.30 |    Coffee Break           |  Coffee Break                         |  All  |
-|15.30 - 15.45 | Shunichi Nozawa1, Masaki Murooka1, Shintaro Noda1, Kunio Kojima1, Yuta Kojio1, Yohei Kakiuchi1, Kei Okada1, Masayuki Inaba | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction |        |       
+|15.30 - 15.45 | Shunichi Nozawa1 et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction |        |       
 |15.45 - 16.15 |      Antonio Franchi    |                         ---         |     Aerial       |
 |16.15 - 16.45 |   Abderrahmane Kheddar    | Multi- control using quadratic programming | Manipulation   |
 |16.45 - 17.15 |     Matteo Fumagalli    | ---   |    Aerial       |
