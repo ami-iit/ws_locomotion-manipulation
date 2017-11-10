@@ -2,46 +2,6 @@
 ![Humanoids2017](images/conference.png)
 
 Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
-
-## Call for contribitions 
-
-Dear Colleagues,
-
-We are glad to announce the workshop entitled "Locomotion and Manipulation: Unifying Solutions Across Aerial and Terrestrial Regimes”.
-
-It will be held on November 15th, 2017, at IEEE-RAS International Conference on Humanoids Robots (Humanoids 2017), Birmingham, UK. 
-
-This workshop will bring together researchers working on Manipulation and Locomotion, either Aerial or Terrestrial.
-
-The goal is to investigate the technological and theoretical feasibility of robotic platforms implementing a degree of Manipulation, Aerial, and Terrestrial locomotion capabilities. 
-
-You are welcome to to contribute and participate to this workshop!
-
-To participate, please submit an abstract (1-2 pages, double-column, PDF) via email to 
-
-Daniele Pucci: daniele.pucci@iit.it and
-
-Arash Ajoudani: arash.ajoudani@iit.it and
-
-Matteo Fumagalli: m_fumagalli@m-tech.aau.dk and
-
-Patrick Wensing: pwensing@nd.edu
-
-Please use the IEEE templates for conference below, and submit the final PDF.
-
-http://ras.papercept.net/conferences/support/tex.php 
-
-http://ras.papercept.net/conferences/support/word.php 
-
-
-## Important dates
-
-November   5, 2017: Submissions due
-
-November   8, 2017: Acceptance notification
-
-November 15, 2017: Workshop
-
 ----
 ## Outline
 [Objectives](#objectives)
