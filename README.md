@@ -98,8 +98,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 [Back to the outline](#outline)
 
 ## Agenda
-Workshop room: REP The Studio
-REP = Birmingham Repertory Theatre, LoB = Library of Birmingham. These are adjacent buildings with an interior path between them. 
+Workshop room: Birmingham Repertory Theatre The Studio
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
