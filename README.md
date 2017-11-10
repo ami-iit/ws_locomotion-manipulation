@@ -66,7 +66,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
 | 9.00 -  9.30 |     Robin Deits           |                   ---               |   Locomotion     |
 | 9.30 - 10.00 |     Umberto Scarcia       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
-|10.00 - 10.30 |            **Free**       |                       --            |     **Free**      |
+|10.00 - 10.30 |      Patrick Wensing     | Structured Prediction for Sensorimotor Control |   Locomotion     |
 |              |                           |                                     |                 |
 |10.30 - 11.00 |     Coffee break          |   **REP Mezzanine area**              |  Coffee break   |
 |              |                           |                                     |                 |
