@@ -1,7 +1,7 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-Starting time: 8.30 AM  - Room to define
+Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
 
 ## Call for contribitions 
 
@@ -98,6 +98,8 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 [Back to the outline](#outline)
 
 ## Agenda
+Workshop room: REP The Studio
+REP = Birmingham Repertory Theatre, LoB = Library of Birmingham. These are adjacent buildings with an interior path between them. 
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
@@ -107,7 +109,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 | 9.30 - 10.00 |     Umberto Scarcia       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
 |10.00 - 10.30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
 |              |                           |                                     |                 |
-|10.30 - 11.00 |     Coffee break          |           Coffee break              |  Coffee break   |
+|10.30 - 11.00 |     Coffee break          |   **REP Mezzanine area**              |  Coffee break   |
 |              |                           |                                     |                 |
 |11.00 - 11.15 |   Markus Giftthaler et al. | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
 |11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method for Torque Controlled Biped Robot |  Selected2 |
@@ -119,7 +121,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |              |                           |                ---                     |      ---           |
 |14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
-|15.00 - 15.30 |    Coffee Break           |  Coffee Break                         |  All  |
+|15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
 |15.30 - 15.45 | Shunichi Nozawa et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction | Selected3       |       
 |15.45 - 16.15 |      Antonio Franchi    |                         ---         |     Aerial       |
 |16.15 - 16.45 |   Abderrahmane Kheddar    | Multi- control using quadratic programming | Manipulation   |
