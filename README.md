@@ -35,7 +35,7 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |       Robin Deits         |             MIT                    |  Locomotion   |     Confirmed, II |
 |       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed, II |
 |       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed, II |
-|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed, I  |
+|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |    **Cancelled**  |
 |     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed, II |
 |     Antonio Bicchi        |               IIT                  | Manipulation  |   **Cancelled**   |
 |     Arash Ajoudani        |               IIT                  | Manipulation  |   **Cancelled**   |
@@ -66,7 +66,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
 | 9.00 -  9.30 |     Robin Deits           |                   ---               |   Locomotion     |
 | 9.30 - 10.00 |     Umberto Scarcia       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
-|10.00 - 10.30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
+|10.00 - 10.30 |            **Free**       |                       --            |     **Free**      |
 |              |                           |                                     |                 |
 |10.30 - 11.00 |     Coffee break          |   **REP Mezzanine area**              |  Coffee break   |
 |              |                           |                                     |                 |
