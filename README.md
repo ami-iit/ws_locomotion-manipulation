@@ -77,11 +77,11 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method for Torque Controlled Biped Robot |  Selected2 |
 |11.30 - 12.00 |     Olivier Stasse        | Using a Memory of Motion to Efficiently Warm-Start a Nonlinear Predictive Controller                 |    Locomotion   |
 |12.00 - 12.30 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
-|12.30 - 13.00 |   Abderrahmane Kheddar    | Multi- control using quadratic programming | Manipulation   |
+|12.30 - 13.00 |   Abderrahmane Kheddar    | Multi-control using quadratic programming | Manipulation   |
 |              |                           |                                     |                 |
 |13.00 - 14.00  |     Lunch break          |            Lunch break              |  Lunch break    |
 |              |                           |                ---                     |      ---           |
-|14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
+|14.00 - 14.30 |      Jaeheung Park        | Compliant Whole-Body Control For Humanoid Robots  |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
 |15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
 |15.30 - 15.45 | Shunichi Nozawa et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction | Selected3       |       
