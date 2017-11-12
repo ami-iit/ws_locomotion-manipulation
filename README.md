@@ -80,7 +80,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |12.30 - 13.00 |   Abderrahmane Kheddar    | Multi-control using quadratic programming | Manipulation   |
 |              |                           |                                     |                 |
 |13.00 - 14.00  |     Lunch break          |            Lunch break              |  Lunch break    |
-|              |                           |                ---                     |      ---           |
+|              |                           |                                     |                 |
 |14.00 - 14.30 |      Jaeheung Park        | Compliant Whole-Body Control For Humanoid Robots  |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
 |15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
