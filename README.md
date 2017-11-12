@@ -1,8 +1,13 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
-----
+
+# General info 
+
+## Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
+## Interactive session at https://github.com/loc2/ws_locomotion-manipulation/issues
+
+
 ## Outline
 [Objectives](#objectives)
 
