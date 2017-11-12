@@ -79,7 +79,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |12.00 - 12.30 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
 |12.30 - 13.00 |   Abderrahmane Kheddar    | Multi-control using quadratic programming | Manipulation   |
 |              |                           |                                     |                 |
-|13.00 - 14.00  |     Lunch break          |            Lunch break              |  Lunch break    |
+|13.00 - 14.00  |   **Lunch break**        | [Vote this issue to join us for lunch](https://github.com/loc2/ws_locomotion-manipulation/issues/1)             |  **Lunch break**    |
 |              |                           |                                     |                 |
 |14.00 - 14.30 |      Jaeheung Park        | Compliant Whole-Body Control For Humanoid Robots  |  Locomotion     |
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
