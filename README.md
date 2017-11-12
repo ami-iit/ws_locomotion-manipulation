@@ -5,8 +5,8 @@
 # General info 
 
 ## Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
-## Interactive session at https://github.com/loc2/ws_locomotion-manipulation/issues
-
+## Click [here](https://github.com/loc2/ws_locomotion-manipulation/issues
+) for partecipating to the interactive session
 
 ## Outline
 [Objectives](#objectives)
