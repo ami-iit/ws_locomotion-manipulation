@@ -85,7 +85,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
 |15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
 |15.30 - 15.45 | Shunichi Nozawa et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction | Selected3       |       
-|15.45 - 16.15 |      Antonio Franchi    |                         ---         |     Aerial       |
+|15.45 - 16.15 |      Antonio Franchi    | Towards  Aerial Physical Locomotion: the Hook-Fly-Hook Problem |     Aerial       |
 |16.15 - 16.45 |     Manolo Garabini         |                  ---                  |  Manipulation  |
 |16.45 - 17.15 |     Matteo Fumagalli    | ---   |    Aerial       |
 |17.15 - 18.00 |    Panel discussion     | ---   |       ---   |
