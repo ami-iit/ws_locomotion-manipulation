@@ -6,8 +6,7 @@ Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
 WiFi: The Rep - Events
 Psw:  repevents
 
-## Click [here](https://github.com/loc2/ws_locomotion-manipulation/issues) for participating in the interactive session
-For instance, vote [this](https://github.com/loc2/ws_locomotion-manipulation/issues/1) issue to join us for lunch!!
+## Click [here](https://github.com/loc2/ws_locomotion-manipulation/issues/2) to add topics/questions for the Q/A session
 
 ## Outline
 [Objectives](#objectives)
