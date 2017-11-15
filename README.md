@@ -66,7 +66,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
-| 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
+| 8.30 -  8.45 |          Organizers       |            Introduction             |  Organisation    |
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
 | 9.00 -  9.30 |     Robin Deits           |  Mixed-Integer Optimization for Walking and Flying  |   Locomotion     |
 | 9.30 - 10.00 |     Umberto Scarcia       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
