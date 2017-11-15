@@ -85,7 +85,7 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |13.00 - 14.00  |   **Lunch break**        | [Vote this issue to join us for lunch](https://github.com/loc2/ws_locomotion-manipulation/issues/1)             |  **Lunch break**    |
 |              |                           |                                     |                 |
 |14.00 - 14.30 |      Jaeheung Park        | Compliant Whole-Body Control For Humanoid Robots  |  Locomotion     |
-|14.30 - 15.00 |     Koushil Sreenath      |                ---                   | Aerial          |
+|14.30 - 15.00 |     Koushil Sreenath      |                Robust Agility and Safety for Dynamic Aerial Manipulation                    | Aerial          |
 |15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
 |15.30 - 15.45 | Shunichi Nozawa et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction | Selected3       |       
 |15.45 - 16.15 |      Antonio Franchi    | Towards  Aerial Physical Locomotion: the Hook-Fly-Hook Problem |     Aerial       |
