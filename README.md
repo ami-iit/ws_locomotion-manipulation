@@ -1,15 +1,21 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-Starting time: 8.30 AM  - Room to define, if accepted
+Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
 
-----
+WiFi: The Rep - Events
+Psw:  repevents
+
+## Click [here](https://github.com/loc2/ws_locomotion-manipulation/issues/2) to add topics/questions for the Q/A session
+
 ## Outline
 [Objectives](#objectives)
 
 [Invited speakers](#invited-speakers)
 
 [Agenda](#agenda)
+
+[Support letters](#support-letters)
 
 [Organizers](#organizers): Daniele Pucci, Arash Ajoudani, Matteo Fumagalli, Patrick Wensing, Jaeheung Park
 
@@ -24,25 +30,26 @@ Thus, this workshop aims to gather scientists towards unifying solutions for cha
 Historically, control systems for humanoids and flying robots have developed along different paths. Whole-body control of humanoids has addressed high-DoF challenges, but largely has neglected underactuation. Control of aerial vehicles has a strong theoretical underpinning with roots in the control community, providing rigorous methods to address underactuation. Yet, the recent introduction of aerial manipulation has introduced increasingly challenging high-DoF control problems in this domain. 
 Thus, there is yet strong potential in bringing humanoid and flying robots closer: both in the theory upon which their control is grounded, and physically in the platforms themselves. A system combining aspects of both platforms may have the capacities of flight, contact locomotion, and manipulation. Such future systems would enlarge the application domain of humanoid and aerial robots, inheriting expanded versatility for future deployment in challenging environments. 
 
-
+[Back to the outline](#outline)
 
 ## Invited speakers
 
 |      Name and Surname     |               Institution          |  Talk topic   |       Status      |
 | :-----------------------: | :--------------------------------: | :----------:  | :-----------:     |
-|         Daniele Pucci     |             IIT                    |  Introductory |     Confirmed     |
-|         Russ Tedrake      |             MIT                    |  Locomotion   |     Confirmed     |
-|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed     |
-|       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed     |
-|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |     Confirmed     |
-|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed     |
-|     Antonio Bicchi        |               IIT                  | Manipulation  |     Confirmed     |
-|     Arash Ajoudani        |               IIT                  | Manipulation  |     Confirmed     |
-|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed     |
-|       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed     |
-|      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed     |
-|     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed     |
-|     Lorenzo Marconi       |        Universita di Bologna       |      Aerial   |     Confirmed     |
+|       Daniele Pucci       |             IIT                    |  Introductory |     Confirmed, II |
+|       Robin Deits         |             MIT                    |  Locomotion   |     Confirmed, II |
+|       Olivier Stasse      |      LAAS CNRS                     |  Locomotion   |     Confirmed, II |
+|       Jaeheung Park       |      Seoul National University     |  Locomotion   |     Confirmed, II |
+|        Tamim Asfour       |  Karlsruhe Institute of Technology | Manipulation  |    **Cancelled**  |
+|     Abderrahmane Kheddar  |            LIRMM CNRS              | Manipulation  |     Confirmed, II |
+|     Antonio Bicchi        |               IIT                  | Manipulation  |   **Cancelled**   |
+|     Arash Ajoudani        |               IIT                  | Manipulation  |   **Cancelled**   |
+|     Manolo Garabini       |      Università di Pisa            | Manipulation  |     Confirmed, II |
+|     Vincenzo Lippiello    | Università Federico II di Napoli   |      Aerial   |     Confirmed, II |
+|       Antonio Franchi     |             LASS CNRS              |      Aerial   |     Confirmed, II |
+|      Koushil Sreenath     |             UC Berkeley            |      Aerial   |     Confirmed, II |
+|     Matteo Fumagalli      |  Aalborg University of Copenhagen  |      Aerial   |     Confirmed, II |
+|     Umberto Scarcia       |        Universita di Bologna       |      Aerial   |     Confirmed, II |
 
 
 <!---
@@ -52,36 +59,61 @@ Thus, there is yet strong potential in bringing humanoid and flying robots close
 |      Matko Orsag          |         University of Zagreb       |      Aerial   | Awaiting response | 
 |      Kenji Hashimoto      |     Waseda University              |  Locomotion   | Awaiting response | 
 -->
+
+[Back to the outline](#outline)
+
 ## Agenda
+Workshop room: Birmingham Repertory Theatre The Studio
 
 |     Time     |           Speaker         |               Talk title            |       Topic      |
 | :-----------:| :-----------------------: | :--------------------------------:  | :---------------:|
-| 8.30 -  8.45 |          Organizers       |            Introduction             |  Perspectives    |
+| 8.30 -  8.45 |          Organizers       |            Introduction             |  Organisation    |
 | 8.45 -  9.00 |         Daniele Pucci     |  Towards Aerial Humanoid Robotics   |         ---        |
-| 9.00 -  9.30 |       Russ Tedrake        |                   ---                 |   Locomotion     |
-| 9.30 - 10.00 |     Lorenzo Marconi       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
-|10.00 - 10.30 |        Tamim Asfour       |  Generation of Whole-body Loco-Manipulation Actions based on Scene Affordances, Human Motion Data and Natural Language Models |  Manipulation         |
+| 9.00 -  9.30 |     Robin Deits           |  Mixed-Integer Optimization for Walking and Flying  |   Locomotion     |
+| 9.30 - 10.00 |     Umberto Scarcia       |  Extremum seeking control for quick aerial localization of victims buried by avalanches | Aerial |
+|10.00 - 10.30 |      Patrick Wensing     | Structured Prediction for Sensorimotor Control |   Locomotion     |
 |              |                           |                                     |                 |
-|10.30 - 11.00 |     Coffee break          |           Coffee break              |  Coffee break   |
+|10.30 - 11.00 |     Coffee break          |   **REP Mezzanine area**              |  Coffee break   |
 |              |                           |                                     |                 |
-|11.00 - 11.30 | Two contributing presentations |             ---                  |         ---       |
-|11.30 - 12.00 |     Olivier Stasse        |                  ---                  |    Locomotion   |
-|12.00 - 12.30 |     Antonio Bicchi        |                  ---                  |  Manipulation  |
-|12.30 - 13.00 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
+|11.00 - 11.15 |   Markus Giftthaler et al. | From UAVs to Quadrupeds: Efficient Numerical Optimal Robot Control Across Different Domains and Platforms | Selected 1  |
+|11.15 - 11.30 | Yisoo Lee and Jaeheung Park | Reactive Walking Method for Torque Controlled Biped Robot |  Selected2 |
+|11.30 - 12.00 |     Olivier Stasse        | Using a Memory of Motion to Efficiently Warm-Start a Nonlinear Predictive Controller                 |    Locomotion   |
+|12.00 - 12.30 |     Vincenzo Lippiello    | Visual-Impedance Control of a Dual-Arm Aerial Manipulator with Eye-Hand Coordination  |      Aerial    |
+|12.30 - 13.00 |   Abderrahmane Kheddar    | Multi-control using quadratic programming | Manipulation   |
 |              |                           |                                     |                 |
-|13.00 - 14.00  |     Lunch break          |            Lunch break              |  Lunch break    |
-|              |                           |                ---                     |      ---           |
-|14.00 - 14.30 |      Jaeheung Park        |                 ---                   |  Locomotion     |
-|14.30 - 15.00 |   Abderrahmane Kheddar    | Multi-(robot, modal, objectives) control using quadratic programming | Manipulation   |
-|15.00 - 15.30 |     Koushil Sreenath      |                ---                   | Aerial          |
-|15.30 - 16.30 |    Coffee Break and poster session from contributions       |  Coffee Break and poster session from contributions   |  All  |
-|16.30 - 17.00 |      Antonio Franchi    |                         ---         |     Aerial       |
-|17.00 - 17.15 |     Arash Ajoudani      |  ---  |    Manipulation       |
-|17.15 - 17.30 |     Matteo Fumagalli    | ---   |    Aerial       |
-|17.30 - 18.00 |    Panel discussion     | ---   |       ---   |
+|13.00 - 14.00  |   **Lunch break**        | [Vote this issue to join us for lunch](https://github.com/loc2/ws_locomotion-manipulation/issues/1)             |  **Lunch break**    |
+|              |                           |                                     |                 |
+|14.00 - 14.30 |      Jaeheung Park        | Compliant Whole-Body Control For Humanoid Robots  |  Locomotion     |
+|14.30 - 15.00 |     Koushil Sreenath      |                Robust Agility and Safety for Dynamic Aerial Manipulation                    | Aerial          |
+|15.00 - 15.30 |    Coffee Break           | **REP Mezzanine area**               |  All  |
+|15.30 - 15.45 | Shunichi Nozawa et al. | Integration of Locomotion and Manipulation to Achieve Humanoid Manipulation of an Object of Unknown Mass Properties and Friction | Selected3       |       
+|15.45 - 16.15 |      Antonio Franchi    | Towards  Aerial Physical Locomotion: the Hook-Fly-Hook Problem |     Aerial       |
+|16.15 - 16.45 |     Manolo Garabini         | Robots in Disaster Scenario: from the Field Test in Amatrice towards whole-body loco-manipulation   |  Manipulation  |
+|16.45 - 17.15 |     Matteo Fumagalli    | Physical Interaction of Aerial Robots   |    Aerial       |
+|17.15 - 18.00 |    Panel discussion     | ---   |       ---   |
 
+[Back to the outline](#outline)
 
+## Support letters
 
+We received the support from four IEEE techinical committes, stated in the following letters
+* [IEEE-RAS TC on Aerial Robotics and UAV](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Aerial-Robotics-UAS.pdf)
+
+* [IEEE-RAS TC on Mobile Manipulation](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Mobile-Manipulation.pdf)
+
+* [IEEE-RAS TC on Robotic Hands, Grasping, and Manipulation](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Robotic-Hands-Grasping-Manipulation.pdf)
+
+* [IEEE-RAS TC on Whole-body control](https://github.com/loc2/ws_locomotion-manipulation/blob/master/support-letters/IEEE-TC_Whole-Body-Control.pdf)
+
+[Back to the outline](#outline)
+
+### Disclaimers
+
+1. At submission time, we had not received the support letter from the IEEE RAS Techinical Committee on Aerial Robotics and UAV, and for this reason we did not list it in the workshop [proposal](https://github.com/loc2/ws_locomotion-manipulation/blob/master/proposal.pdf). We received the letter on August the 3rd.
+
+2. Most of support letters cite the workshop with a different title, e.g. Towards Whole-Body Aerial Loco-Manipulation. This because we decided to change the workshop title at the very last moment.
+
+[Back to the outline](#outline)
 
 ## Organizers
 
