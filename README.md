@@ -6,14 +6,14 @@ Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
 WiFi: The Rep - Events
 Psw:  repevents
 
-## Click [here](https://github.com/loc2/ws_locomotion-manipulation/issues/2) to add topics/questions for the Q/A session
-
 ## Outline
 [Objectives](#objectives)
 
 [Invited speakers](#invited-speakers)
 
 [Agenda](#agenda)
+
+[Pictures](#pictures)
 
 [Support letters](#support-letters)
 
@@ -93,6 +93,15 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |17.15 - 18.00 |    Panel discussion     | ---   |       ---   |
 
 [Back to the outline](#outline)
+
+## Pictures
+Here are the pictures of the workshop 
+
+<img src="images/0.jpg" width="180">
+
+
+[Back to the outline](#outline)
+
 
 ## Support letters
 
