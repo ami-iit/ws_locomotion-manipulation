@@ -1,10 +1,8 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-Starting time: 8.30 AM  -  Birmingham Repertory Theatre The Studio
+<img src="images/0.jpg" width="3600">
 
-WiFi: The Rep - Events
-Psw:  repevents
 
 ## Outline
 [Objectives](#objectives)
@@ -12,8 +10,6 @@ Psw:  repevents
 [Invited speakers](#invited-speakers)
 
 [Agenda](#agenda)
-
-[Pictures](#pictures)
 
 [Support letters](#support-letters)
 
@@ -93,15 +89,6 @@ Workshop room: Birmingham Repertory Theatre The Studio
 |17.15 - 18.00 |    Panel discussion     | ---   |       ---   |
 
 [Back to the outline](#outline)
-
-## Pictures
-Here are the pictures of the workshop 
-
-<img src="images/0.jpg" width="180">
-
-
-[Back to the outline](#outline)
-
 
 ## Support letters
 
