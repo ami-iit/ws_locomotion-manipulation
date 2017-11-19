@@ -1,7 +1,7 @@
 # Full-Day Workshop at 
 ![Humanoids2017](images/conference.png)
 
-<img src="images/0.jpg" width="3600">
+<img src="images/0.jpg" width="360">
 
 
 ## Outline
